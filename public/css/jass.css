@@ -420,12 +420,12 @@ button {
 }
 
 a {
-  color: #1b89bc;
+  color: #1bbc6e;
   text-decoration: none;
 }
 
 a:hover {
-  color: #065b83;
+  color: #1df4ac;
   text-decoration: underline;
 }
 
@@ -469,7 +469,7 @@ a:hover {
 }
 
 .m-3 {
-  margin: 1rem;
+  margin: 2cap;
 }
 
 .m-4 {
@@ -884,23 +884,23 @@ a:hover {
 }
 
 .text-info {
-  color: #1bbc9b !important;
+  color: #1c106a !important;
 }
 
 .text-danger {
-  color: #e64c66 !important;
+  color: #ff0c34 !important;
 }
 
 .text-default {
-  color: #aeaeae !important;
+  color: #000000 !important;
 }
 
 .text-light {
-  color: #d9e9e8 !important;
+  color: #b2b4ad !important;
 }
 
 .text-dark {
-  color: #1a1a1a !important;
+  color: #261414 !important;
 }
 
 .text-white {
@@ -912,32 +912,32 @@ a:hover {
 }
 
 .text-link {
-  color: #1b89bc !important;
+  color: #025d87 !important;
 }
 
 /* BACKGROUND UTILS */
 .bg-primary {
-  background-color: #2d3e50 !important;
+  background-color: #132232 !important;
 }
 
 .bg-info {
-  background-color: #1bbc9b !important;
+  background-color: #215c1e !important;
 }
 
 .bg-danger {
-  background-color: #e64c66 !important;
+  background-color: #ef0028 !important;
 }
 
 .bg-light {
-  background-color: #d9e9e8 !important;
+  background-color: #3b4040 !important;
 }
 
 .bg-dark {
-  background-color: #1a1a1a !important;
+  background-color: #000000 !important;
 }
 
 .bg-white {
-  background-color: #ffffff !important;
+  background-color: #aa9b9b !important;
 }
 
 .bg-black {
@@ -945,7 +945,7 @@ a:hover {
 }
 
 .bg-link {
-  background-color: #1b89bc !important;
+  background-color: #1bbc6b !important;
 }
 
 /* DISPLAY */
@@ -980,12 +980,12 @@ a:hover {
   border: 1px solid transparent;
   outline: none;
   color: #1a1a1a;
-  background-color: #aeaeae;
+  background-color: #ffdfdf;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
 
 .btn:hover {
-  background-color: #cecece;
+  background-color: #423535;
 }
 
 .btn.btn-squared {
@@ -1009,17 +1009,17 @@ a:hover {
 }
 
 .btn.btn-primary {
-  background-color: #2d3e50;
-  color: #d9e9e8;
+  background-color: #4a502d;
+  color: #5cff8d;
 }
 
 .btn.btn-primary:hover {
-  background-color: #57779a;
+  background-color: #dbbc3ed2;
 }
 
 .btn.btn-danger {
-  background-color: #e64c66;
-  color: #ffffff;
+  background-color: #ff002b;
+  color: #b9a9a9;
 }
 
 .btn.btn-danger:hover {
@@ -1054,7 +1054,7 @@ a:hover {
 }
 
 .btn.btn-white {
-  background-color: #ffffff;
+  background-color: #9dd693;
   color: #1a1a1a;
 }
 
@@ -1072,12 +1072,12 @@ a:hover {
 }
 
 .btn.btn-link {
-  background-color: #1b89bc;
+  background-color: #20bc1b;
   color: #ffffff;
 }
 
 .btn.btn-link:hover {
-  background-color: #31a9e1;
+  background-color: #51e131;
 }
 
 .card {
@@ -1087,7 +1087,7 @@ a:hover {
 
 .card .card-header {
   padding: 0.375rem;
-  background-color: #2d3e50;
+  background-color: #2d5047;
   color: #d9e9e8;
 }
 
@@ -1109,7 +1109,7 @@ a:hover {
 }
 
 form {
-  width: 100%;
+  width: 95%;
 }
 
 form .form-group {
@@ -1136,17 +1136,17 @@ form label,
 form .form-label {
   display: inline-block;
   font-size: 1.2rem;
-  margin: 0.625rem 0 0.25rem 0.3rem;
+  margin: 0.62rem 0 0.25rem 0.3rem;
 }
 
 form .form-input {
   width: 100%;
   padding: 0.75rem;
   color: #1a1a1a;
-  background-color: #ffffff;
+  background-color: #adf9bf;
   margin: 0.625rem 0;
   font-size: 1.2rem;
-  border: 1px solid #484848;
+  border: 1px solid #04ff57;
   border-radius: 0.3rem;
 }
 
