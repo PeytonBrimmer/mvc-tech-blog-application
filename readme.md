@@ -28,6 +28,7 @@ MVC Tech Blog is a web application that allows users to create, read, update, an
 4. Start the application: `npm start`
 
 ## Usage
+- node server.js in the command line to run the server
 - Visit the application in your web browser at `http://localhost:3001`.
 - Sign up or log in to start creating and managing your blog posts.
 - Explore other users' blog posts and leave comments.
